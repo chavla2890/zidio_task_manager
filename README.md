@@ -1,1 +1,14 @@
 # zidio_task_manager
+'''
+MONGO_URI = ""
+PORT = 4000
+JWT_SECRET_KEY = "adskafgkjncalsjd"
+NODE_ENV = "development"
+
+CLOUDINARY_CLIENT_NAME = 
+CLOUDINARY_CLIENT_API = 
+CLOUDINARY_CLIENT_SECRET = 
+FRONTEND_URL = http://localhost:5173
+COOKIE_EXPIRE = 3600  
+JWT_EXPIRES = 1d
+'''
